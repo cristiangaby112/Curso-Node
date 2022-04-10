@@ -1,2 +1,1 @@
-let nombre = "Cristian";
-console.log(nombre);
+console.log("Hola Mundo")
